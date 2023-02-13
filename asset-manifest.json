@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todo_Notes_App/static/css/main.5ab4103a.css",
+    "main.js": "/Todo_Notes_App/static/js/main.6e99b88a.js",
+    "index.html": "/Todo_Notes_App/index.html",
+    "main.5ab4103a.css.map": "/Todo_Notes_App/static/css/main.5ab4103a.css.map",
+    "main.6e99b88a.js.map": "/Todo_Notes_App/static/js/main.6e99b88a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ab4103a.css",
+    "static/js/main.6e99b88a.js"
+  ]
+}
